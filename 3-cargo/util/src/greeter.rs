@@ -1,3 +1,3 @@
-pub fn say(name : &str) -> String {
-	format!("Hello, {}!", name)
+pub fn say(name : &str) {
+	println!("Hello, {}!", name)
 }

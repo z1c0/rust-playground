@@ -1,0 +1,7 @@
+[package]
+name = "main"
+version = "0.1.0"
+authors = ["z1c0 <wziegler@live.at>"]
+
+[dependencies]
+winapi = { version = "0.3", features = ["winuser"] }
